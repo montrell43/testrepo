@@ -13,4 +13,7 @@ function startTest() {
     var button = document.getElementById("btn");
     button.innerHTML = "End Test";
     button.onclick = endTest;
+
+    var button = document.getElementById("btn");
+    button = userTypedText.length
             }
